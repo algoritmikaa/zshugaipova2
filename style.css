@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 3px solid rgb(52, 139, 52);
+    border-radius: 10px;
+}
+
+header a {
+    text-decoration: green;
+    border: 3px solid rgb(17, 139, 37);
+    padding: 1px;
+    margin: 2px;
+    border-radius: 7px;
+    background-color: green;
+    color:rgb(241, 243, 241);
+}
+
+h1 {
+    font-family: cursive;
+    text-align: center;
+    border: royalblue solid 3px;
+    border-radius: 10px;
+}
+
+footer p {
+    border: 10px solid pink;
+    padding: 10px;
+    margin: -10px;
+}
+
+nav  {
+    border: 3px solid rgb(121, 110, 223);
+    border-radius: 10px;
+    color: rgb(59, 96, 218);
+    margin: 10px;
+}
+
+nav a {
+    margin: 60px;
+    text-decoration: ;
+    color: rgb(7, 109, 29);
+}
+
+.algo  {
+    background-color: rgb(31, 179, 31);
+    border-radius: 10px;
+}
+
+h2 {
+    color: blue;
+}
+
+.
+
